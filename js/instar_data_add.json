@@ -5,7 +5,7 @@
       "image": "https://picsum.photos/300?random=6",
       "likes": 5,
       "date": "Apr 4",
-      "liked": false,
+      "liked": "false",
       "content": "더보기로 요청한 게시물1입니다.",
     }
     {
@@ -13,8 +13,8 @@
       "user": "zzzMini",
       "image": "https://picsum.photos/300?random=7",
       "likes": 6,
-      "date": "July 25",
-      "liked": false,
-      "content": "더보기로 요청한 게시물1입니다.",
+      "date": "July 26",
+      "liked": "false",
+      "content": "더보기로 요청한 게시물2입니다.",
     }
 ]
