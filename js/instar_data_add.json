@@ -6,7 +6,7 @@
       "likes": 5,
       "date": "Apr 4",
       "liked": "false",
-      "content": "더보기로 요청한 게시물1입니다.",
+      "content": "더보기로 요청한 게시물1입니다."
     }
     {
       "id": 4
@@ -15,6 +15,6 @@
       "likes": 6,
       "date": "July 26",
       "liked": "false",
-      "content": "더보기로 요청한 게시물2입니다.",
+      "content": "더보기로 요청한 게시물2입니다."
     }
 ]
