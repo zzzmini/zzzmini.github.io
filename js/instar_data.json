@@ -2,7 +2,7 @@
     {
       "id" : 0,
       "user": "Kim Hyun",
-      "image": "https://picsum.photos/300?random=3",
+      "image": "https://picsum.photos/600?random=3",
       "likes": 36,
       "date": "May 15",
       "liked": "false",
@@ -11,7 +11,7 @@
     {
       "id": 1,
       "user": "John Doe",
-      "image": "https://picsum.photos/300?random=4",
+      "image": "https://picsum.photos/600?random=4",
       "likes": 20,
       "date": "Apr 20",
       "liked": "false",
@@ -20,7 +20,7 @@
     {
       "id": 2,
       "user": "Minny",
-      "image": "https://picsum.photos/300?random=5",
+      "image": "https://picsum.photos/600?random=5",
       "likes": 49,
       "date": "Apr 4",
       "liked": "false",
