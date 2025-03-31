@@ -2,7 +2,7 @@
     {
       "id": 3,
       "user": "Son",
-      "image": "https://picsum.photos/300?random=6",
+      "image": "https://picsum.photos/600?random=6",
       "likes": 5,
       "date": "Apr 4",
       "liked": "false",
@@ -11,7 +11,7 @@
     {
       "id": 4,
       "user": "zzzMini",
-      "image": "https://picsum.photos/300?random=7",
+      "image": "https://picsum.photos/600?random=7",
       "likes": 6,
       "date": "July 26",
       "liked": "false",
