@@ -1,7 +1,7 @@
 [
     {
       "id": 3,
-      "user": "Son",,
+      "user": "Son",
       "image": "https://picsum.photos/300?random=6",
       "likes": 5,
       "date": "Apr 4",
