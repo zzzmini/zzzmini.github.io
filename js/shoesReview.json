@@ -1,7 +1,7 @@
 [
 { 
   "reviewId" : 1,
-  "productId" : 1,
+  "productId" : 0,
   "point" : 3,
   "title" : "사이즈가 너무 커요",
   "review" : "디자인과 소재 (가죽) 모두 너무 맘에 드는데 보통 235 사이즈가 아닙니다."
@@ -29,7 +29,7 @@
 },
 { 
   "reviewId" : 5,
-  "productId" : 3,
+  "productId" : 0,
   "point" : 5,
   "title" : "와이프가 가볍고 편하게 신기에 좋다고 합니다.",
   "review" : "와이프가 너무 좋아하네요. 딱"
